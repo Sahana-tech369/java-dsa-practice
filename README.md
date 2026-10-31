@@ -1,31 +1,42 @@
-# Hi, I'm Sahana 👋
+﻿# Java DSA Practice
 
-### Aspiring Software Developer | Java | DSA | OOP
+Hi! I'm a computer science student preparing for software development placements.
 
-I'm a student preparing for software engineering placements and improving my programming skills through consistent practice.
+This repository contains my Java programming practice, Data Structures and Algorithms (DSA) solutions, Object-Oriented Programming examples, and LeetCode solutions.
 
-## 💻 Skills I'm Learning
-- Java Programming
-- Data Structures and Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Problem Solving with LeetCode
+## Technical Skills
+
+- Java
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Problem Solving
 - Git and GitHub
 
-## 📚 My Coding Practice
-- Practicing Java programming problems
-- Learning and implementing OOP concepts
-- Solving LeetCode problems
-- Organizing my code and tracking progress using GitHub
+## Topics Practiced
 
-## 🎯 My Goal
-To strengthen my problem-solving skills, build practical projects, and secure a software development role.
+- Java Basics
+- Arrays
+- Hashing
+- Strings
+- Stack
+- Queue
+- Object-Oriented Programming
 
-## 📂 Repository Structure
-- `java/` — Java practice
-- `oops/` — Object-Oriented Programming examples
-- `LeetCode/` — LeetCode solutions
+## LeetCode Practice
 
-## 📈 My Approach
-Learn consistently, practice regularly, understand mistakes, and improve one step at a time.
+I solve coding problems using Java to improve my problem-solving skills and prepare for technical interviews.
 
-Thanks for visiting my profile!
+## Repository Structure
+
+- `java/` - Java programming basics and DSA practice
+- `oops/` - Object-Oriented Programming examples
+- `LeetCode/` - LeetCode problem solutions
+- `Queue/` - Queue implementations
+- `Stack/` - Stack implementations
+
+## My Goal
+
+To strengthen my Java programming and problem-solving skills and become a software developer.
+
+---
+Learning consistently, solving problems, and improving every day.

@@ -1,1 +1,6 @@
-Java DSA (Arrays, Strings, Hashing, Searching, Stack, Queue), OOP, and LeetCode solutions for software placement preparation. 💪
+## Repository Structure
+
+- `DSA/` - Arrays, Strings, Hashing, Searching, Stack and Queue
+- `LeetCode/` - LeetCode problem solutions
+- `java/` - Java programming basics
+- `oops/` - Object-Oriented Programming examples

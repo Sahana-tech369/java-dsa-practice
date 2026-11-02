@@ -4,7 +4,6 @@ class CircularQueue {
     int rear = -1;
     int size = 0;
 
-    // Enqueue: add an element
     void enqueue(int value) {
         if (size == arr.length) {
             System.out.println("Queue is full!");
@@ -14,9 +13,9 @@ class CircularQueue {
         rear = (rear + 1) % arr.length;
         arr[rear] = value;
         size++;
+        System.out.println("Inserted: " + value);
     }
 
-    // Dequeue: remove the front element
     void dequeue() {
         if (size == 0) {
             System.out.println("Queue is empty!");
@@ -28,8 +27,12 @@ class CircularQueue {
         size--;
     }
 
-    // Display the queue
     void display() {
+        if (size == 0) {
+            System.out.println("Queue is empty!");
+            return;
+        }
+
         System.out.print("Queue: ");
 
         for (int i = 0; i < size; i++) {
@@ -51,11 +54,11 @@ class Main {
         q.enqueue(40);
         q.enqueue(50);
 
-        q.display();
-
+        q.dequeue();
         q.dequeue();
 
         q.enqueue(60);
+        q.enqueue(70);
 
         q.display();
     }

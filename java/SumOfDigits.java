@@ -1,11 +1,9 @@
-public class SumOfDigits {
+class Main {
     public static void main(String[] args) {
-        int n = 123;
-        int sum = 0;
+        int n = 1234, sum = 0;
 
         while (n > 0) {
-            int digit = n % 10;
-            sum = sum + digit;
+            sum += n % 10;
             n = n / 10;
         }
 
